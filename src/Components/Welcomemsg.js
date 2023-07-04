@@ -8,7 +8,7 @@ function WelcomeMessage() {
 
     const timer = setTimeout(() => {
       setDisplayText(''); 
-    }, 7000);
+    }, 6000);
 
     return () => clearTimeout(timer); 
   }, []);

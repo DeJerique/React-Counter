@@ -19,6 +19,7 @@
 .increment {
     background-color: green;
     color: white;
+    padding: 42px 44px;
 }
 
 .decrement {
