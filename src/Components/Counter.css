@@ -1,0 +1,32 @@
+.counter-button {
+    background-color: #e0e0e0;
+    color: black;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    margin-right: 8px;
+}
+
+.counter-text {
+    font-size: 28px;
+    font-weight: 1000px;
+    color: orange;
+}
+
+.count {
+  color: lightblue;
+}
+.increment {
+    background-color: green;
+    color: white;
+}
+
+.decrement {
+    background-color: red;
+    color: white;
+}
+
+.reset {
+    background-color: gray;
+    color: white;
+}
